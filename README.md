@@ -42,10 +42,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barath46&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=barath46&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
