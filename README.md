@@ -45,15 +45,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=barath46&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
-### 🐍 Contribution snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/barath46/barath46/output/github-snake-dark.svg" />
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/barath46/barath46/output/github-snake.svg" />
-  </picture>
-</p>
-
 ### 🤝 Connect with me
 
 <p align="left">
