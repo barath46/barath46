@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390">
+<style>
+ text{font:15px 'Fira Code',Consolas,'Courier New',monospace;white-space:pre}
+ .c{fill:#e2e8f0} .o{fill:#7dd3fc} .pr{fill:#34d399} .pa{fill:#a78bfa}
+ .l{opacity:0;animation:show .01s linear forwards}
+ @keyframes show{to{opacity:1}}
+ .cur{animation:blink 1s step-end infinite}
+ @keyframes blink{50%{opacity:0}}
+ .ttl{font:13px 'Segoe UI',Arial,sans-serif;fill:#94a3b8}
+</style>
+<defs>
+ <linearGradient id="bd" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+ <animateTransform attributeName="gradientTransform" type="rotate" values="0 .5 .5;360 .5 .5" dur="6s" repeatCount="indefinite"/></linearGradient>
+</defs>
+<rect x="2" y="2" width="996" height="386" rx="14" fill="#0d1117" stroke="url(#bd)" stroke-width="2"/>
+<rect x="3" y="3" width="994" height="36" rx="13" fill="#161b22"/>
+<rect x="3" y="26" width="994" height="13" fill="#161b22"/>
+<circle cx="26" cy="21" r="6" fill="#ff5f56"/><circle cx="46" cy="21" r="6" fill="#ffbd2e"/><circle cx="66" cy="21" r="6" fill="#27c93f"/>
+<text x="500" y="25" text-anchor="middle" class="ttl">barath@commutatus: ~</text>
+
+<g class="l" style="animation-delay:0.40s"><text x="24" y="70"><tspan class="pr">➜</tspan> <tspan class="pa">~</tspan></text></g>
+<clipPath id="c0"><rect x="70" y="50" width="0" height="28"><animate attributeName="width" from="0" to="59" begin="0.70s" dur="0.36s" fill="freeze" calcMode="discrete" values="0;9;18;27;36;46;55"/></rect></clipPath>
+<text x="70" y="70" class="c" clip-path="url(#c0)">whoami</text>
+<g class="l" style="animation-delay:1.41s"><text x="24" y="100" class="o">Barath — Full-Stack Developer 🚀</text></g>
+<g class="l" style="animation-delay:1.66s"><text x="24" y="130"><tspan class="pr">➜</tspan> <tspan class="pa">~</tspan></text></g>
+<clipPath id="c2"><rect x="70" y="110" width="0" height="28"><animate attributeName="width" from="0" to="131" begin="1.96s" dur="0.84s" fill="freeze" calcMode="discrete" values="0;9;18;27;36;46;55;64;73;82;91;100;109;118;127"/></rect></clipPath>
+<text x="70" y="130" class="c" clip-path="url(#c2)">cat about.json</text>
+<g class="l" style="animation-delay:3.15s"><text x="24" y="160" class="o">{ "company": "@commutatus", "location": "Chennai, India",</text></g>
+<g class="l" style="animation-delay:3.40s"><text x="24" y="190" class="o">  "loves": ["TypeScript", "Ruby on Rails", "React", "Next.js"],</text></g>
+<g class="l" style="animation-delay:3.65s"><text x="24" y="220" class="o">  "exploring": "AI-assisted development",</text></g>
+<g class="l" style="animation-delay:3.90s"><text x="24" y="250" class="o">  "motto": "The best code is the code you get to delete" }</text></g>
+<g class="l" style="animation-delay:4.15s"><text x="24" y="280"><tspan class="pr">➜</tspan> <tspan class="pa">~</tspan></text></g>
+<clipPath id="c7"><rect x="70" y="260" width="0" height="28"><animate attributeName="width" from="0" to="377" begin="4.45s" dur="2.46s" fill="freeze" calcMode="discrete" values="0;9;18;27;36;46;55;64;73;82;91;100;109;118;127;136;146;155;164;173;182;191;200;209;218;228;237;246;255;264;273;282;291;300;309;318;328;337;346;355;364;373"/></rect></clipPath>
+<text x="70" y="280" class="c" clip-path="url(#c7)">git log --oneline --author=barath | wc -l</text>
+<g class="l" style="animation-delay:7.26s"><text x="24" y="310" class="o">10,885+ contributions and counting ✨</text></g>
+<g class="l" style="animation-delay:7.51s"><text x="24" y="340"><tspan class="pr">➜</tspan> <tspan class="pa">~</tspan></text><rect class="cur" x="70" y="325" width="9" height="19" fill="#e2e8f0"/></g>
+</svg>
